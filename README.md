@@ -32,5 +32,6 @@ curl --location --request POST 'http://localhost:8080/getAll' \
  ### Screenshots
  ![alt text](https://raw.githubusercontent.com/imdadareeph/graphql/main/screenshots/2.png "preview1")
  ![alt text](https://raw.githubusercontent.com/imdadareeph/graphql/main/screenshots/3.png "preview2")
-   
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/graphql/main/screenshots/4.png "preview3")
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/graphql/main/screenshots/5.png "preview5")
    
